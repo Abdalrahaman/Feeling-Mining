@@ -22,3 +22,5 @@ Emotion classification and detection is closely related to Sentimental analysis.
 
 * Keyword spotting is one of the simplest technique and leveraged widely by Sentiment Analysis algorithms. The fed Input document is thoroughly scanned for the obvious positive and negative words like “sad”, “happy”, “disappoint”, “great”, “satisfied”, and such.
 * There are a number of Sentiment Analysis algorithms, and each has different libraries of words and phrases which they score as positive, negative, and neutral. These libraries are often called the “bag of words” by many algorithms.
+
+<img src="https://user-images.githubusercontent.com/35526918/66912696-599cbd80-f013-11e9-9dab-f78f995ef54b.png">
